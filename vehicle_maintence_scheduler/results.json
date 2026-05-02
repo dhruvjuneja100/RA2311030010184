@@ -1,0 +1,37 @@
+[
+  {
+    "depotID": 2,
+    "mechanicHours": 135,
+    "maxImpact": 202,
+    "selectedTasks": [
+      "06cc28a3-5088-4d93-a481-3d860aff2553",
+      "92ef105d-1dde-4b60-af58-d8374c1dc57b",
+      "cdc8df6e-cdc3-48cd-bc81-82617f429a86",
+      "3dc0a36c-ca9c-4ec3-b784-4c13e804f802"
+    ],
+    "totalTasksSelected": 4
+  },
+  {
+    "depotID": 3,
+    "mechanicHours": 188,
+    "maxImpact": 216,
+    "selectedTasks": [],
+    "totalTasksSelected": 0
+  },
+  {
+    "depotID": 4,
+    "mechanicHours": 97,
+    "maxImpact": 174,
+    "selectedTasks": [
+      "8add0972-8d7e-4bcb-a2f5-9c4228bf8210",
+      "71169f73-07bf-46c6-ae07-3988cbb13b45",
+      "d29f13f1-06c2-4a99-a16b-c129e71f0b7b",
+      "06cc28a3-5088-4d93-a481-3d860aff2553",
+      "c159cd82-1f77-4b24-bdce-3cfec2f0e7b8",
+      "c42e6384-a563-44df-9e47-f09dd5325018",
+      "792ed7e5-c5ff-49b8-9e52-7bc37f36d5ea",
+      "4fcc1658-9f74-4463-bfbb-020dc974f4e6"
+    ],
+    "totalTasksSelected": 8
+  }
+]
